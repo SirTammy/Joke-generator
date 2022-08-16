@@ -37,10 +37,10 @@ button{
     cursor: pointer;
 }
 
-button:hover{
+/* button:hover{
     background-color: gray;
     color: white;
-}
+} */
 button:active{
     transform: translateY(0.2em);
 }
